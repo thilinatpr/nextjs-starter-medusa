@@ -6,7 +6,7 @@ module.exports = withStoreConfig({
   reactStrictMode: true,
   images: {
    // domains: ["medusa-public-images.s3.eu-west-1.amazonaws.com", "localhost"],
-   domains: ["medusa.thegift.lk","gift-lk.s3.us-east-1.amazonaws.com", "localhost"],
+   domains: ["medusa-public-images.s3.eu-west-1.amazonaws.com","gift-lk.s3.us-east-1.amazonaws.com", "localhost"],
   },
 })
 
